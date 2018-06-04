@@ -165,5 +165,8 @@ public class DataController : MonoBehaviour {
     }
 
     private ItemButton[] itemButtons;
-   
+    public void ResetData()
+    {
+        PlayerPrefs.DeleteAll();
+    }
 }

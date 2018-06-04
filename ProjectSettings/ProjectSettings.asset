@@ -243,9 +243,9 @@ PlayerSettings:
   templatePackageId: com.unity.template.2d@1.0.0
   templateDefaultScene: Assets/Scenes/SampleScene.unity
   AndroidTargetArchitectures: 1
-  AndroidSplashScreenScale: 2
+  AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 2800000, guid: d3421e06f3bb8254f9ddfbfbf1c0999c, type: 3}
-  AndroidKeystoreName: "C:/Users/jipeg/OneDrive/\uBC14\uD0D5 \uD654\uBA74/ClickerProject/user.keystore"
+  AndroidKeystoreName: C:/unity/ClickerProject/user.keystore
   AndroidKeyaliasName: vividclicker
   AndroidTVCompatibility: 1
   AndroidIsGame: 1

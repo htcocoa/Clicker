@@ -1,6 +1,6 @@
-WindowsStandalone
+Android
 PlayerPath?
-C:/Users/jipeg/OneDrive/바탕 화면/ClickerProject/ClickerProject.exe
+C:/unity/ClickerProject/vividclicker.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
@@ -156,6 +156,7 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ResetButton
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 60df7550c1bd15c01616a99edd0d2a2e Assembly-CSharp.dll:.ItemButton
 baeaa67bc913d8df02bb94f9dfee5e3f Assembly-CSharp.dll:UnityChan.FaceUpdate
@@ -163,6 +164,3 @@ b8dbaba0490ba4b6cdadfc4782937f50 Assembly-CSharp.dll:UnityChan.SpringBone
 4bd094aadca75add5207374ea0e290c3 Assembly-CSharp.dll:UnityChan.RandomWind
 00a151844dbacabd8a6d3807a4d0f53d Assembly-CSharp.dll:UnityChan.UnityChanControlScriptWithRgidBody
 cae1c5f9f21297425716bb45dede35ee Assembly-CSharp.dll:UnityChan.AutoBlinkforSD
-05524b8f659e7bfe5756d1335fec24ba UnityStore.dll:UnityEngine.Store.MainThreadDispatcher
-05524b8f659e7bfe5756d1335fec24ba Xiaomi.dll:AppStoresSupport.AppStoreSettingsEditor
-50667894c33b478dc38ae949114bb1e8 Xiaomi.dll:AppStoresSupport.AppStoreSettings
